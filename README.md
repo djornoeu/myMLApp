@@ -1,5 +1,5 @@
 # myMLApp
-Projeto de Teste sobre Aprendizado de Máquina
+Projeto de Teste Sobre Aprendizado de Máquina
 
 Este é o meu primeiro projeto de aprendizado de máquina no GitHub. Aqui estou aprendendo como usar o Git e o GitHub.
 
